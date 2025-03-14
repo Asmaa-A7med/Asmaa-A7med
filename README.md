@@ -13,8 +13,8 @@
 </p> 
 
 - 🏢 I'm a Software Engineer Developer | Full Stack (.Net & Angular )
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, HTML,CSS,C++, and C#, or anything related to Computer science field.
+- 👨‍💻 As a CS graduated, I'm constantly learning and exploring new technologies to improve my skills.
+- 💬 Ask me about my experience with .net , Angular ,JavaScript, HTML,CSS,C++, and C#,oop, sql server , linq , Entity framework or anything related to Computer science field.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my linkedin profile at https://linkedin.com/in/asmaa-ahmed-6b197b219 to see some of the projects I've worked on.
 
@@ -39,6 +39,7 @@
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![clean code](https://img.shields.io/badge/-CleanCode-05122A?style=flat&logo=Cleancode)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C)&nbsp;
+![Angular](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C)&nbsp;
 
 
 
