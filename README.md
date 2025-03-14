@@ -39,7 +39,7 @@
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![clean code](https://img.shields.io/badge/-CleanCode-05122A?style=flat&logo=Cleancode)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C)&nbsp;
-![Angular](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C)&nbsp;
+![SQL](https://img.shields.io/badge/-sql-05122A?style=flat&logo=sql)&nbsp;
 
 
 
